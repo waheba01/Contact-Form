@@ -28,6 +28,10 @@ h1{
     color: aliceblue;
 text-align: center;
 }
+h2{
+    color: black;
+    font-size:30px;
+}
 h6{
     color:bisque;
 
